@@ -5,8 +5,8 @@ __Description:__ Got to work with Java, Spring MVC, Maven, Tomcat, and other coo
 __Status:__ Working
 
 __Run from eclipse:__  
-> Right click src/main/java/hello/Application.java
-> Run As... Java Application
+> Right click src/main/java/hello/Application.java  
+> Run As... Java Application  
 > localhost:8080/greeting
 
 __Resource:__  
